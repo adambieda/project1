@@ -1,12 +1,12 @@
 .sanserif {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+    color: white
 }
 
 .topnav{
     background-color: darkblue;
     overflow: hidden;
 }
-
 
 .topnav a {
     float: left;
@@ -31,5 +31,12 @@
     color: white;
 }
 
-.footer 
 
+.text {
+    background-color: white;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: left;
+    padding: 5px;
+}
